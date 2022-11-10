@@ -69,7 +69,7 @@ export const Book = ({ book }) => {
         onClick={() => addMark(book)}
         className='float-right mt-2 rounded-full bg-lime-400 px-4 py-1 font-bold font-medium text-white hover:bg-lime-500'
       >
-        + Add Marks!!
+        + Add Marks
       </button>
     </div>
   );
